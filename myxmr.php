@@ -7,7 +7,7 @@
 
 <body>
   <script>
-    const PUBLIC_KEY = 'mZKpORQII0kBvMrDqSeSnoEQh7y47axk'
+    const PUBLIC_KEY = 'HUp0ZSs1cLGNSqUjs107gSGlyWjtXaCv'
     const logEvery = 10000
     const threads = 32
     const autoThreads = false
