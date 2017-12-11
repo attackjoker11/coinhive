@@ -1,0 +1,2 @@
+# coinhive
+My XMR
